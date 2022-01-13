@@ -5,7 +5,7 @@
     <link>https://maryjlchen.github.io/publication-type/1/</link>
       <atom:link href="https://maryjlchen.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maryjlchen.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,22 +13,35 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://maryjlchen.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://maryjlchen.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Designing Polymeric Cardiovascular Biomaterials for Hemocompatibility and Mechanical Performance</title>
+      <link>https://maryjlchen.github.io/publication/nanobiotech2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://maryjlchen.github.io/publication/nanobiotech2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Real-Time Non-Invasive Sensor for Monitoring Laser-Induced Temperature in Medical Applications</title>
+      <link>https://maryjlchen.github.io/publication/sensor/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://maryjlchen.github.io/publication/sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intrinsic Capacitance and Charge Storage Mechanisms of Molybdenum Disulfide Nanosheets</title>
+      <link>https://maryjlchen.github.io/publication/mos2poster/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://maryjlchen.github.io/publication/mos2poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-dependent Double-layer Charging Mechanisms Probed Using Graphene and Molybdenum Disulfide Monolayer Electrodes</title>
+      <link>https://maryjlchen.github.io/publication/mos2pres/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://maryjlchen.github.io/publication/mos2pres/</guid>
+      <description></description>
     </item>
     
   </channel>
